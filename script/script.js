@@ -28,7 +28,7 @@ window.onscroll = () =>{
     cartItem.classList.remove('active');
 }
 
-function myfunction(th)
+function myfunction()
 {
     // var div1= document.createElement("div");
     var div1= document.createElement("div");
